@@ -1,5 +1,6 @@
 import numpy as np
 import argparse
+import pandas as pd
 
 # Calcular min y max
 def calcular_min_max(lista_numeros, verbose=True):
