@@ -10,3 +10,5 @@ Datos: https://datosabiertos.bogota.gov.co/dataset/llamadas-de-urgencias-y-emerg
 ETL en GCP
 
 file : 0.1.Romario-eda-asignacion-llamadas-gcp.py
+
+Dashboard : https://datastudio.google.com/reporting/346aa950-357b-463c-8abb-49b6f261a5db
